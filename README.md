@@ -9,6 +9,7 @@ This is my leetcode solutions that I had solved till now
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/shishird-03/DSA_Solutions/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/shishird-03/DSA_Solutions/tree/master/0013-roman-to-integer) |
 ## String
 |  |
