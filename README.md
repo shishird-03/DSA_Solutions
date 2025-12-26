@@ -1,4 +1,6 @@
-This is my leetcode solutions that I had solved till now 
+This is my leetcode solutions that I had solved till now.
+Mainly I had solved easy and medium level problems, and had spent a more amount of time in solving one particular problem.
+Yeah, holding the positive spirit within me, will make a good changes in bulding problem solving skills.👊
 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
