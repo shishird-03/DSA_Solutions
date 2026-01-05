@@ -8,6 +8,7 @@ Yeah, holding the positive spirit within me, will make a good changes in bulding
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/shishird-03/DSA_Solutions/tree/master/0013-roman-to-integer) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/shishird-03/DSA_Solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
 ## Math
 |  |
 | ------- |
@@ -23,6 +24,7 @@ Yeah, holding the positive spirit within me, will make a good changes in bulding
 ## Array
 |  |
 | ------- |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/shishird-03/DSA_Solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/shishird-03/DSA_Solutions/tree/master/2161-partition-array-according-to-given-pivot) |
 ## Two Pointers
 |  |
