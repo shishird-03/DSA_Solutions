@@ -29,6 +29,7 @@ Yeah, holding the positive spirit within me, will make a good changes in bulding
 | ------- |
 | [0001-two-sum](https://github.com/shishird-03/DSA_Solutions/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/shishird-03/DSA_Solutions/tree/master/0014-longest-common-prefix) |
+| [0035-search-insert-position](https://github.com/shishird-03/DSA_Solutions/tree/master/0035-search-insert-position) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/shishird-03/DSA_Solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/shishird-03/DSA_Solutions/tree/master/2161-partition-array-according-to-given-pivot) |
 ## Two Pointers
@@ -65,4 +66,8 @@ Yeah, holding the positive spirit within me, will make a good changes in bulding
 |  |
 | ------- |
 | [2481-minimum-cuts-to-divide-a-circle](https://github.com/shishird-03/DSA_Solutions/tree/master/2481-minimum-cuts-to-divide-a-circle) |
+## Binary Search
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/shishird-03/DSA_Solutions/tree/master/0035-search-insert-position) |
 <!---LeetCode Topics End-->
