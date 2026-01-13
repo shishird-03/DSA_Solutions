@@ -16,6 +16,7 @@ Yeah, holding the positive spirit within me, will make a good changes in bulding
 | [0009-palindrome-number](https://github.com/shishird-03/DSA_Solutions/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/shishird-03/DSA_Solutions/tree/master/0013-roman-to-integer) |
 | [0258-add-digits](https://github.com/shishird-03/DSA_Solutions/tree/master/0258-add-digits) |
+| [0412-fizz-buzz](https://github.com/shishird-03/DSA_Solutions/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/shishird-03/DSA_Solutions/tree/master/0509-fibonacci-number) |
 | [2481-minimum-cuts-to-divide-a-circle](https://github.com/shishird-03/DSA_Solutions/tree/master/2481-minimum-cuts-to-divide-a-circle) |
 ## String
@@ -24,6 +25,7 @@ Yeah, holding the positive spirit within me, will make a good changes in bulding
 | [0013-roman-to-integer](https://github.com/shishird-03/DSA_Solutions/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/shishird-03/DSA_Solutions/tree/master/0014-longest-common-prefix) |
 | [0125-valid-palindrome](https://github.com/shishird-03/DSA_Solutions/tree/master/0125-valid-palindrome) |
+| [0412-fizz-buzz](https://github.com/shishird-03/DSA_Solutions/tree/master/0412-fizz-buzz) |
 ## Array
 |  |
 | ------- |
@@ -43,6 +45,7 @@ Yeah, holding the positive spirit within me, will make a good changes in bulding
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/shishird-03/DSA_Solutions/tree/master/0258-add-digits) |
+| [0412-fizz-buzz](https://github.com/shishird-03/DSA_Solutions/tree/master/0412-fizz-buzz) |
 | [1929-concatenation-of-array](https://github.com/shishird-03/DSA_Solutions/tree/master/1929-concatenation-of-array) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/shishird-03/DSA_Solutions/tree/master/2161-partition-array-according-to-given-pivot) |
 ## Number Theory
