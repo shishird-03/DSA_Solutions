@@ -35,6 +35,7 @@ Yeah, holding the positive spirit within me, will make a good changes in bulding
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shishird-03/DSA_Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/shishird-03/DSA_Solutions/tree/master/0035-search-insert-position) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shishird-03/DSA_Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0704-binary-search](https://github.com/shishird-03/DSA_Solutions/tree/master/0704-binary-search) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/shishird-03/DSA_Solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1480-running-sum-of-1d-array](https://github.com/shishird-03/DSA_Solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1929-concatenation-of-array](https://github.com/shishird-03/DSA_Solutions/tree/master/1929-concatenation-of-array) |
@@ -83,6 +84,7 @@ Yeah, holding the positive spirit within me, will make a good changes in bulding
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/shishird-03/DSA_Solutions/tree/master/0035-search-insert-position) |
+| [0704-binary-search](https://github.com/shishird-03/DSA_Solutions/tree/master/0704-binary-search) |
 ## Prefix Sum
 |  |
 | ------- |
