@@ -88,6 +88,7 @@ Yeah, holding the positive spirit within me, will make a good changes in bulding
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/shishird-03/DSA_Solutions/tree/master/0035-search-insert-position) |
+| [0278-first-bad-version](https://github.com/shishird-03/DSA_Solutions/tree/master/0278-first-bad-version) |
 | [0704-binary-search](https://github.com/shishird-03/DSA_Solutions/tree/master/0704-binary-search) |
 ## Prefix Sum
 |  |
@@ -97,4 +98,8 @@ Yeah, holding the positive spirit within me, will make a good changes in bulding
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/shishird-03/DSA_Solutions/tree/master/0242-valid-anagram) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/shishird-03/DSA_Solutions/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
