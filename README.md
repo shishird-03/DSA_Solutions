@@ -19,6 +19,7 @@ Yeah, holding the positive spirit within me, will make a good changes in bulding
 | [0066-plus-one](https://github.com/shishird-03/DSA_Solutions/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/shishird-03/DSA_Solutions/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/shishird-03/DSA_Solutions/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/shishird-03/DSA_Solutions/tree/master/0070-climbing-stairs) |
 | [0258-add-digits](https://github.com/shishird-03/DSA_Solutions/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/shishird-03/DSA_Solutions/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/shishird-03/DSA_Solutions/tree/master/0509-fibonacci-number) |
@@ -78,6 +79,7 @@ Yeah, holding the positive spirit within me, will make a good changes in bulding
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/shishird-03/DSA_Solutions/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shishird-03/DSA_Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0509-fibonacci-number](https://github.com/shishird-03/DSA_Solutions/tree/master/0509-fibonacci-number) |
 ## Recursion
@@ -87,6 +89,7 @@ Yeah, holding the positive spirit within me, will make a good changes in bulding
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/shishird-03/DSA_Solutions/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/shishird-03/DSA_Solutions/tree/master/0509-fibonacci-number) |
 ## Trie
 |  |
