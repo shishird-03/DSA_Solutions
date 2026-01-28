@@ -45,6 +45,7 @@ Yeah, holding the positive spirit within me, will make a good changes in bulding
 | [0035-search-insert-position](https://github.com/shishird-03/DSA_Solutions/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/shishird-03/DSA_Solutions/tree/master/0066-plus-one) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shishird-03/DSA_Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0136-single-number](https://github.com/shishird-03/DSA_Solutions/tree/master/0136-single-number) |
 | [0283-move-zeroes](https://github.com/shishird-03/DSA_Solutions/tree/master/0283-move-zeroes) |
 | [0704-binary-search](https://github.com/shishird-03/DSA_Solutions/tree/master/0704-binary-search) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/shishird-03/DSA_Solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
@@ -123,4 +124,5 @@ Yeah, holding the positive spirit within me, will make a good changes in bulding
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/shishird-03/DSA_Solutions/tree/master/0067-add-binary) |
+| [0136-single-number](https://github.com/shishird-03/DSA_Solutions/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
