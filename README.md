@@ -22,6 +22,7 @@ Yeah, holding the positive spirit within me, will make a good changes in bulding
 | [0070-climbing-stairs](https://github.com/shishird-03/DSA_Solutions/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/shishird-03/DSA_Solutions/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/shishird-03/DSA_Solutions/tree/master/0258-add-digits) |
+| [0326-power-of-three](https://github.com/shishird-03/DSA_Solutions/tree/master/0326-power-of-three) |
 | [0412-fizz-buzz](https://github.com/shishird-03/DSA_Solutions/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/shishird-03/DSA_Solutions/tree/master/0509-fibonacci-number) |
 | [2481-minimum-cuts-to-divide-a-circle](https://github.com/shishird-03/DSA_Solutions/tree/master/2481-minimum-cuts-to-divide-a-circle) |
@@ -88,6 +89,7 @@ Yeah, holding the positive spirit within me, will make a good changes in bulding
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/shishird-03/DSA_Solutions/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/shishird-03/DSA_Solutions/tree/master/0326-power-of-three) |
 | [0509-fibonacci-number](https://github.com/shishird-03/DSA_Solutions/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
