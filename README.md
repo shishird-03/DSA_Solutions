@@ -49,6 +49,7 @@ Yeah, holding the positive spirit within me, will make a good changes in bulding
 | [0027-remove-element](https://github.com/shishird-03/DSA_Solutions/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/shishird-03/DSA_Solutions/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/shishird-03/DSA_Solutions/tree/master/0066-plus-one) |
+| [0088-merge-sorted-array](https://github.com/shishird-03/DSA_Solutions/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shishird-03/DSA_Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/shishird-03/DSA_Solutions/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/shishird-03/DSA_Solutions/tree/master/0189-rotate-array) |
@@ -67,6 +68,7 @@ Yeah, holding the positive spirit within me, will make a good changes in bulding
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shishird-03/DSA_Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/shishird-03/DSA_Solutions/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/shishird-03/DSA_Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0088-merge-sorted-array](https://github.com/shishird-03/DSA_Solutions/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/shishird-03/DSA_Solutions/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/shishird-03/DSA_Solutions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/shishird-03/DSA_Solutions/tree/master/0283-move-zeroes) |
@@ -125,6 +127,7 @@ Yeah, holding the positive spirit within me, will make a good changes in bulding
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/shishird-03/DSA_Solutions/tree/master/0088-merge-sorted-array) |
 | [0242-valid-anagram](https://github.com/shishird-03/DSA_Solutions/tree/master/0242-valid-anagram) |
 | [0977-squares-of-a-sorted-array](https://github.com/shishird-03/DSA_Solutions/tree/master/0977-squares-of-a-sorted-array) |
 ## Interactive
