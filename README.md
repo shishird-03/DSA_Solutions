@@ -9,6 +9,7 @@ Yeah, holding the positive spirit within me, will make a good changes in bulding
 | ------- |
 | [0001-two-sum](https://github.com/shishird-03/DSA_Solutions/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/shishird-03/DSA_Solutions/tree/master/0013-roman-to-integer) |
+| [0217-contains-duplicate](https://github.com/shishird-03/DSA_Solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/shishird-03/DSA_Solutions/tree/master/0242-valid-anagram) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/shishird-03/DSA_Solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
 ## Math
@@ -53,6 +54,7 @@ Yeah, holding the positive spirit within me, will make a good changes in bulding
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shishird-03/DSA_Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/shishird-03/DSA_Solutions/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/shishird-03/DSA_Solutions/tree/master/0189-rotate-array) |
+| [0217-contains-duplicate](https://github.com/shishird-03/DSA_Solutions/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/shishird-03/DSA_Solutions/tree/master/0283-move-zeroes) |
 | [0704-binary-search](https://github.com/shishird-03/DSA_Solutions/tree/master/0704-binary-search) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/shishird-03/DSA_Solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
@@ -128,6 +130,7 @@ Yeah, holding the positive spirit within me, will make a good changes in bulding
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/shishird-03/DSA_Solutions/tree/master/0088-merge-sorted-array) |
+| [0217-contains-duplicate](https://github.com/shishird-03/DSA_Solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/shishird-03/DSA_Solutions/tree/master/0242-valid-anagram) |
 | [0977-squares-of-a-sorted-array](https://github.com/shishird-03/DSA_Solutions/tree/master/0977-squares-of-a-sorted-array) |
 ## Interactive
