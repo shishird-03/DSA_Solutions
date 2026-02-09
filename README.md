@@ -26,6 +26,7 @@ Yeah, holding the positive spirit within me, will make a good changes in bulding
 | [0258-add-digits](https://github.com/shishird-03/DSA_Solutions/tree/master/0258-add-digits) |
 | [0326-power-of-three](https://github.com/shishird-03/DSA_Solutions/tree/master/0326-power-of-three) |
 | [0412-fizz-buzz](https://github.com/shishird-03/DSA_Solutions/tree/master/0412-fizz-buzz) |
+| [0415-add-strings](https://github.com/shishird-03/DSA_Solutions/tree/master/0415-add-strings) |
 | [0509-fibonacci-number](https://github.com/shishird-03/DSA_Solutions/tree/master/0509-fibonacci-number) |
 | [2481-minimum-cuts-to-divide-a-circle](https://github.com/shishird-03/DSA_Solutions/tree/master/2481-minimum-cuts-to-divide-a-circle) |
 ## String
@@ -40,6 +41,7 @@ Yeah, holding the positive spirit within me, will make a good changes in bulding
 | [0242-valid-anagram](https://github.com/shishird-03/DSA_Solutions/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/shishird-03/DSA_Solutions/tree/master/0344-reverse-string) |
 | [0412-fizz-buzz](https://github.com/shishird-03/DSA_Solutions/tree/master/0412-fizz-buzz) |
+| [0415-add-strings](https://github.com/shishird-03/DSA_Solutions/tree/master/0415-add-strings) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/shishird-03/DSA_Solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 ## Array
 |  |
@@ -83,6 +85,7 @@ Yeah, holding the positive spirit within me, will make a good changes in bulding
 | [0067-add-binary](https://github.com/shishird-03/DSA_Solutions/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/shishird-03/DSA_Solutions/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/shishird-03/DSA_Solutions/tree/master/0412-fizz-buzz) |
+| [0415-add-strings](https://github.com/shishird-03/DSA_Solutions/tree/master/0415-add-strings) |
 | [1929-concatenation-of-array](https://github.com/shishird-03/DSA_Solutions/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/shishird-03/DSA_Solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/shishird-03/DSA_Solutions/tree/master/2161-partition-array-according-to-given-pivot) |
