@@ -12,6 +12,7 @@ Yeah, holding the positive spirit within me, will make a good changes in bulding
 | [0217-contains-duplicate](https://github.com/shishird-03/DSA_Solutions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/shishird-03/DSA_Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/shishird-03/DSA_Solutions/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/shishird-03/DSA_Solutions/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/shishird-03/DSA_Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/shishird-03/DSA_Solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
 ## Math
@@ -26,6 +27,7 @@ Yeah, holding the positive spirit within me, will make a good changes in bulding
 | [0189-rotate-array](https://github.com/shishird-03/DSA_Solutions/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/shishird-03/DSA_Solutions/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/shishird-03/DSA_Solutions/tree/master/0258-add-digits) |
+| [0268-missing-number](https://github.com/shishird-03/DSA_Solutions/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/shishird-03/DSA_Solutions/tree/master/0326-power-of-three) |
 | [0367-valid-perfect-square](https://github.com/shishird-03/DSA_Solutions/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/shishird-03/DSA_Solutions/tree/master/0412-fizz-buzz) |
@@ -62,6 +64,7 @@ Yeah, holding the positive spirit within me, will make a good changes in bulding
 | [0189-rotate-array](https://github.com/shishird-03/DSA_Solutions/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/shishird-03/DSA_Solutions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/shishird-03/DSA_Solutions/tree/master/0219-contains-duplicate-ii) |
+| [0268-missing-number](https://github.com/shishird-03/DSA_Solutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/shishird-03/DSA_Solutions/tree/master/0283-move-zeroes) |
 | [0704-binary-search](https://github.com/shishird-03/DSA_Solutions/tree/master/0704-binary-search) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/shishird-03/DSA_Solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
@@ -128,6 +131,7 @@ Yeah, holding the positive spirit within me, will make a good changes in bulding
 | ------- |
 | [0035-search-insert-position](https://github.com/shishird-03/DSA_Solutions/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/shishird-03/DSA_Solutions/tree/master/0069-sqrtx) |
+| [0268-missing-number](https://github.com/shishird-03/DSA_Solutions/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/shishird-03/DSA_Solutions/tree/master/0278-first-bad-version) |
 | [0367-valid-perfect-square](https://github.com/shishird-03/DSA_Solutions/tree/master/0367-valid-perfect-square) |
 | [0704-binary-search](https://github.com/shishird-03/DSA_Solutions/tree/master/0704-binary-search) |
@@ -141,6 +145,7 @@ Yeah, holding the positive spirit within me, will make a good changes in bulding
 | [0088-merge-sorted-array](https://github.com/shishird-03/DSA_Solutions/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/shishird-03/DSA_Solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/shishird-03/DSA_Solutions/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/shishird-03/DSA_Solutions/tree/master/0268-missing-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/shishird-03/DSA_Solutions/tree/master/0977-squares-of-a-sorted-array) |
 ## Interactive
 |  |
@@ -152,6 +157,7 @@ Yeah, holding the positive spirit within me, will make a good changes in bulding
 | [0067-add-binary](https://github.com/shishird-03/DSA_Solutions/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/shishird-03/DSA_Solutions/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/shishird-03/DSA_Solutions/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/shishird-03/DSA_Solutions/tree/master/0268-missing-number) |
 ## Stack
 |  |
 | ------- |
