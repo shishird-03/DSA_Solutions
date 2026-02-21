@@ -9,6 +9,7 @@ Yeah, holding the positive spirit within me, will make a good changes in bulding
 | ------- |
 | [0001-two-sum](https://github.com/shishird-03/DSA_Solutions/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/shishird-03/DSA_Solutions/tree/master/0013-roman-to-integer) |
+| [0205-isomorphic-strings](https://github.com/shishird-03/DSA_Solutions/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/shishird-03/DSA_Solutions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/shishird-03/DSA_Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/shishird-03/DSA_Solutions/tree/master/0242-valid-anagram) |
@@ -44,6 +45,7 @@ Yeah, holding the positive spirit within me, will make a good changes in bulding
 | [0058-length-of-last-word](https://github.com/shishird-03/DSA_Solutions/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/shishird-03/DSA_Solutions/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/shishird-03/DSA_Solutions/tree/master/0125-valid-palindrome) |
+| [0205-isomorphic-strings](https://github.com/shishird-03/DSA_Solutions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/shishird-03/DSA_Solutions/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/shishird-03/DSA_Solutions/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/shishird-03/DSA_Solutions/tree/master/0387-first-unique-character-in-a-string) |
