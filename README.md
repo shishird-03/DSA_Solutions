@@ -39,6 +39,7 @@ Yeah, holding the positive spirit within me, will make a good changes in bulding
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/shishird-03/DSA_Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0013-roman-to-integer](https://github.com/shishird-03/DSA_Solutions/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/shishird-03/DSA_Solutions/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/shishird-03/DSA_Solutions/tree/master/0020-valid-parentheses) |
@@ -82,6 +83,7 @@ Yeah, holding the positive spirit within me, will make a good changes in bulding
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/shishird-03/DSA_Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shishird-03/DSA_Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/shishird-03/DSA_Solutions/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/shishird-03/DSA_Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
@@ -110,6 +112,7 @@ Yeah, holding the positive spirit within me, will make a good changes in bulding
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/shishird-03/DSA_Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0070-climbing-stairs](https://github.com/shishird-03/DSA_Solutions/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shishird-03/DSA_Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0509-fibonacci-number](https://github.com/shishird-03/DSA_Solutions/tree/master/0509-fibonacci-number) |
