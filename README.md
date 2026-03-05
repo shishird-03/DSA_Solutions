@@ -25,6 +25,7 @@ Yeah, holding the positive spirit within me, will make a good changes in bulding
 | [0067-add-binary](https://github.com/shishird-03/DSA_Solutions/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/shishird-03/DSA_Solutions/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/shishird-03/DSA_Solutions/tree/master/0070-climbing-stairs) |
+| [0171-excel-sheet-column-number](https://github.com/shishird-03/DSA_Solutions/tree/master/0171-excel-sheet-column-number) |
 | [0189-rotate-array](https://github.com/shishird-03/DSA_Solutions/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/shishird-03/DSA_Solutions/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/shishird-03/DSA_Solutions/tree/master/0231-power-of-two) |
@@ -47,6 +48,7 @@ Yeah, holding the positive spirit within me, will make a good changes in bulding
 | [0058-length-of-last-word](https://github.com/shishird-03/DSA_Solutions/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/shishird-03/DSA_Solutions/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/shishird-03/DSA_Solutions/tree/master/0125-valid-palindrome) |
+| [0171-excel-sheet-column-number](https://github.com/shishird-03/DSA_Solutions/tree/master/0171-excel-sheet-column-number) |
 | [0205-isomorphic-strings](https://github.com/shishird-03/DSA_Solutions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/shishird-03/DSA_Solutions/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/shishird-03/DSA_Solutions/tree/master/0344-reverse-string) |
