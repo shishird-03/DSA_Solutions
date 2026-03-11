@@ -77,6 +77,7 @@ Yeah, holding the positive spirit within me, will make a good changes in bulding
 | [0268-missing-number](https://github.com/shishird-03/DSA_Solutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/shishird-03/DSA_Solutions/tree/master/0283-move-zeroes) |
 | [0704-binary-search](https://github.com/shishird-03/DSA_Solutions/tree/master/0704-binary-search) |
+| [0912-sort-an-array](https://github.com/shishird-03/DSA_Solutions/tree/master/0912-sort-an-array) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/shishird-03/DSA_Solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/shishird-03/DSA_Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1480-running-sum-of-1d-array](https://github.com/shishird-03/DSA_Solutions/tree/master/1480-running-sum-of-1d-array) |
@@ -159,6 +160,7 @@ Yeah, holding the positive spirit within me, will make a good changes in bulding
 | [0217-contains-duplicate](https://github.com/shishird-03/DSA_Solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/shishird-03/DSA_Solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/shishird-03/DSA_Solutions/tree/master/0268-missing-number) |
+| [0912-sort-an-array](https://github.com/shishird-03/DSA_Solutions/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/shishird-03/DSA_Solutions/tree/master/0977-squares-of-a-sorted-array) |
 ## Interactive
 |  |
@@ -195,4 +197,28 @@ Yeah, holding the positive spirit within me, will make a good changes in bulding
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/shishird-03/DSA_Solutions/tree/master/0204-count-primes) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/shishird-03/DSA_Solutions/tree/master/0912-sort-an-array) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/shishird-03/DSA_Solutions/tree/master/0912-sort-an-array) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/shishird-03/DSA_Solutions/tree/master/0912-sort-an-array) |
+## Bucket Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/shishird-03/DSA_Solutions/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/shishird-03/DSA_Solutions/tree/master/0912-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/shishird-03/DSA_Solutions/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
