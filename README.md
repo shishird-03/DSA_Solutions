@@ -70,6 +70,7 @@ Yeah, holding the positive spirit within me, will make a good changes in bulding
 | [0088-merge-sorted-array](https://github.com/shishird-03/DSA_Solutions/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shishird-03/DSA_Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/shishird-03/DSA_Solutions/tree/master/0136-single-number) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/shishird-03/DSA_Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/shishird-03/DSA_Solutions/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/shishird-03/DSA_Solutions/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/shishird-03/DSA_Solutions/tree/master/0217-contains-duplicate) |
@@ -95,6 +96,7 @@ Yeah, holding the positive spirit within me, will make a good changes in bulding
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/shishird-03/DSA_Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0088-merge-sorted-array](https://github.com/shishird-03/DSA_Solutions/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/shishird-03/DSA_Solutions/tree/master/0125-valid-palindrome) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/shishird-03/DSA_Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/shishird-03/DSA_Solutions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/shishird-03/DSA_Solutions/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/shishird-03/DSA_Solutions/tree/master/0344-reverse-string) |
@@ -146,6 +148,7 @@ Yeah, holding the positive spirit within me, will make a good changes in bulding
 | ------- |
 | [0035-search-insert-position](https://github.com/shishird-03/DSA_Solutions/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/shishird-03/DSA_Solutions/tree/master/0069-sqrtx) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/shishird-03/DSA_Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/shishird-03/DSA_Solutions/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/shishird-03/DSA_Solutions/tree/master/0278-first-bad-version) |
 | [0367-valid-perfect-square](https://github.com/shishird-03/DSA_Solutions/tree/master/0367-valid-perfect-square) |
