@@ -54,6 +54,7 @@ Yeah, holding the positive spirit within me, will make a good changes in bulding
 | [0205-isomorphic-strings](https://github.com/shishird-03/DSA_Solutions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/shishird-03/DSA_Solutions/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/shishird-03/DSA_Solutions/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/shishird-03/DSA_Solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/shishird-03/DSA_Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0412-fizz-buzz](https://github.com/shishird-03/DSA_Solutions/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/shishird-03/DSA_Solutions/tree/master/0415-add-strings) |
@@ -100,6 +101,7 @@ Yeah, holding the positive spirit within me, will make a good changes in bulding
 | [0189-rotate-array](https://github.com/shishird-03/DSA_Solutions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/shishird-03/DSA_Solutions/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/shishird-03/DSA_Solutions/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/shishird-03/DSA_Solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0977-squares-of-a-sorted-array](https://github.com/shishird-03/DSA_Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/shishird-03/DSA_Solutions/tree/master/2161-partition-array-according-to-given-pivot) |
 ## Simulation
