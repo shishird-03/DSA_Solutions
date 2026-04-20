@@ -91,6 +91,7 @@ Yeah, holding the positive spirit within me, will make a good changes in bulding
 | [0912-sort-an-array](https://github.com/shishird-03/DSA_Solutions/tree/master/0912-sort-an-array) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/shishird-03/DSA_Solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/shishird-03/DSA_Solutions/tree/master/0977-squares-of-a-sorted-array) |
+| [1046-last-stone-weight](https://github.com/shishird-03/DSA_Solutions/tree/master/1046-last-stone-weight) |
 | [1480-running-sum-of-1d-array](https://github.com/shishird-03/DSA_Solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/shishird-03/DSA_Solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1929-concatenation-of-array](https://github.com/shishird-03/DSA_Solutions/tree/master/1929-concatenation-of-array) |
@@ -227,6 +228,7 @@ Yeah, holding the positive spirit within me, will make a good changes in bulding
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/shishird-03/DSA_Solutions/tree/master/0912-sort-an-array) |
+| [1046-last-stone-weight](https://github.com/shishird-03/DSA_Solutions/tree/master/1046-last-stone-weight) |
 ## Merge Sort
 |  |
 | ------- |
