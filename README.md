@@ -11,6 +11,7 @@ Yeah, holding the positive spirit within me, will make a good changes in bulding
 | [0003-longest-substring-without-repeating-characters](https://github.com/shishird-03/DSA_Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/shishird-03/DSA_Solutions/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/shishird-03/DSA_Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0169-majority-element](https://github.com/shishird-03/DSA_Solutions/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/shishird-03/DSA_Solutions/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/shishird-03/DSA_Solutions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/shishird-03/DSA_Solutions/tree/master/0219-contains-duplicate-ii) |
@@ -79,6 +80,7 @@ Yeah, holding the positive spirit within me, will make a good changes in bulding
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shishird-03/DSA_Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/shishird-03/DSA_Solutions/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/shishird-03/DSA_Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/shishird-03/DSA_Solutions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/shishird-03/DSA_Solutions/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/shishird-03/DSA_Solutions/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/shishird-03/DSA_Solutions/tree/master/0209-minimum-size-subarray-sum) |
@@ -180,6 +182,7 @@ Yeah, holding the positive spirit within me, will make a good changes in bulding
 | ------- |
 | [0075-sort-colors](https://github.com/shishird-03/DSA_Solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/shishird-03/DSA_Solutions/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/shishird-03/DSA_Solutions/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/shishird-03/DSA_Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/shishird-03/DSA_Solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/shishird-03/DSA_Solutions/tree/master/0242-valid-anagram) |
@@ -213,6 +216,7 @@ Yeah, holding the positive spirit within me, will make a good changes in bulding
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/shishird-03/DSA_Solutions/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/shishird-03/DSA_Solutions/tree/master/0387-first-unique-character-in-a-string) |
 ## Sliding Window
 |  |
@@ -229,6 +233,7 @@ Yeah, holding the positive spirit within me, will make a good changes in bulding
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/shishird-03/DSA_Solutions/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/shishird-03/DSA_Solutions/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/shishird-03/DSA_Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0912-sort-an-array](https://github.com/shishird-03/DSA_Solutions/tree/master/0912-sort-an-array) |
 ## Heap (Priority Queue)
