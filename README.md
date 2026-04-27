@@ -79,6 +79,7 @@ Yeah, holding the positive spirit within me, will make a good changes in bulding
 | [0035-search-insert-position](https://github.com/shishird-03/DSA_Solutions/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/shishird-03/DSA_Solutions/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/shishird-03/DSA_Solutions/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/shishird-03/DSA_Solutions/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/shishird-03/DSA_Solutions/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/shishird-03/DSA_Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/shishird-03/DSA_Solutions/tree/master/0075-sort-colors) |
@@ -131,6 +132,7 @@ Yeah, holding the positive spirit within me, will make a good changes in bulding
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/shishird-03/DSA_Solutions/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/shishird-03/DSA_Solutions/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/shishird-03/DSA_Solutions/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/shishird-03/DSA_Solutions/tree/master/0412-fizz-buzz) |
@@ -307,5 +309,6 @@ Yeah, holding the positive spirit within me, will make a good changes in bulding
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/shishird-03/DSA_Solutions/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/shishird-03/DSA_Solutions/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/shishird-03/DSA_Solutions/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
