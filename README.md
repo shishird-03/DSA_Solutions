@@ -26,6 +26,7 @@ Yeah, holding the positive spirit within me, will make a good changes in bulding
 | [0904-fruit-into-baskets](https://github.com/shishird-03/DSA_Solutions/tree/master/0904-fruit-into-baskets) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/shishird-03/DSA_Solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1207-unique-number-of-occurrences](https://github.com/shishird-03/DSA_Solutions/tree/master/1207-unique-number-of-occurrences) |
+| [1512-number-of-good-pairs](https://github.com/shishird-03/DSA_Solutions/tree/master/1512-number-of-good-pairs) |
 ## Math
 |  |
 | ------- |
@@ -50,6 +51,7 @@ Yeah, holding the positive spirit within me, will make a good changes in bulding
 | [0412-fizz-buzz](https://github.com/shishird-03/DSA_Solutions/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/shishird-03/DSA_Solutions/tree/master/0415-add-strings) |
 | [0509-fibonacci-number](https://github.com/shishird-03/DSA_Solutions/tree/master/0509-fibonacci-number) |
+| [1512-number-of-good-pairs](https://github.com/shishird-03/DSA_Solutions/tree/master/1512-number-of-good-pairs) |
 | [2481-minimum-cuts-to-divide-a-circle](https://github.com/shishird-03/DSA_Solutions/tree/master/2481-minimum-cuts-to-divide-a-circle) |
 ## String
 |  |
@@ -120,6 +122,7 @@ Yeah, holding the positive spirit within me, will make a good changes in bulding
 | [1046-last-stone-weight](https://github.com/shishird-03/DSA_Solutions/tree/master/1046-last-stone-weight) |
 | [1207-unique-number-of-occurrences](https://github.com/shishird-03/DSA_Solutions/tree/master/1207-unique-number-of-occurrences) |
 | [1480-running-sum-of-1d-array](https://github.com/shishird-03/DSA_Solutions/tree/master/1480-running-sum-of-1d-array) |
+| [1512-number-of-good-pairs](https://github.com/shishird-03/DSA_Solutions/tree/master/1512-number-of-good-pairs) |
 | [1720-decode-xored-array](https://github.com/shishird-03/DSA_Solutions/tree/master/1720-decode-xored-array) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/shishird-03/DSA_Solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1929-concatenation-of-array](https://github.com/shishird-03/DSA_Solutions/tree/master/1929-concatenation-of-array) |
@@ -259,6 +262,7 @@ Yeah, holding the positive spirit within me, will make a good changes in bulding
 | [0169-majority-element](https://github.com/shishird-03/DSA_Solutions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/shishird-03/DSA_Solutions/tree/master/0229-majority-element-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/shishird-03/DSA_Solutions/tree/master/0387-first-unique-character-in-a-string) |
+| [1512-number-of-good-pairs](https://github.com/shishird-03/DSA_Solutions/tree/master/1512-number-of-good-pairs) |
 | [2833-furthest-point-from-origin](https://github.com/shishird-03/DSA_Solutions/tree/master/2833-furthest-point-from-origin) |
 ## Sliding Window
 |  |
