@@ -25,6 +25,7 @@ Yeah, holding the positive spirit within me, will make a good changes in bulding
 | [0560-subarray-sum-equals-k](https://github.com/shishird-03/DSA_Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0904-fruit-into-baskets](https://github.com/shishird-03/DSA_Solutions/tree/master/0904-fruit-into-baskets) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/shishird-03/DSA_Solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [1207-unique-number-of-occurrences](https://github.com/shishird-03/DSA_Solutions/tree/master/1207-unique-number-of-occurrences) |
 ## Math
 |  |
 | ------- |
@@ -117,6 +118,7 @@ Yeah, holding the positive spirit within me, will make a good changes in bulding
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/shishird-03/DSA_Solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/shishird-03/DSA_Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1046-last-stone-weight](https://github.com/shishird-03/DSA_Solutions/tree/master/1046-last-stone-weight) |
+| [1207-unique-number-of-occurrences](https://github.com/shishird-03/DSA_Solutions/tree/master/1207-unique-number-of-occurrences) |
 | [1480-running-sum-of-1d-array](https://github.com/shishird-03/DSA_Solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1720-decode-xored-array](https://github.com/shishird-03/DSA_Solutions/tree/master/1720-decode-xored-array) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/shishird-03/DSA_Solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
