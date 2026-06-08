@@ -132,6 +132,7 @@ Yeah, holding the positive spirit within me, will make a good changes in bulding
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/shishird-03/DSA_Solutions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1480-running-sum-of-1d-array](https://github.com/shishird-03/DSA_Solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1512-number-of-good-pairs](https://github.com/shishird-03/DSA_Solutions/tree/master/1512-number-of-good-pairs) |
+| [1672-richest-customer-wealth](https://github.com/shishird-03/DSA_Solutions/tree/master/1672-richest-customer-wealth) |
 | [1720-decode-xored-array](https://github.com/shishird-03/DSA_Solutions/tree/master/1720-decode-xored-array) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/shishird-03/DSA_Solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1929-concatenation-of-array](https://github.com/shishird-03/DSA_Solutions/tree/master/1929-concatenation-of-array) |
@@ -364,6 +365,7 @@ Yeah, holding the positive spirit within me, will make a good changes in bulding
 | [0048-rotate-image](https://github.com/shishird-03/DSA_Solutions/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/shishird-03/DSA_Solutions/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/shishird-03/DSA_Solutions/tree/master/0073-set-matrix-zeroes) |
+| [1672-richest-customer-wealth](https://github.com/shishird-03/DSA_Solutions/tree/master/1672-richest-customer-wealth) |
 ## Monotonic Stack
 |  |
 | ------- |
